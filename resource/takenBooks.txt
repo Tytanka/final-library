@@ -1,0 +1,2 @@
+Author: M.Sholohov BookName: 'And Quite Flows the Don' Cover: hard;
+Author: O.Henry BookName: 'Roads of Destiny' Cover: hard;

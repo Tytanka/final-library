@@ -1,0 +1,5 @@
+Author: Ch.Dickens BookName: 'Oliver Twist' Cover: soft;
+Author: J.London BookName: 'The Game' Cover: soft;
+Author: V.Nabokov BookName: 'Lolita' Cover: hard;
+Author: L.Tolstoy BookName: 'War and Peace' Cover: soft;
+Author: M.Lermontov BookName: 'A Hero of Our Time' Cover: hard;
